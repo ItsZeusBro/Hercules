@@ -1,5 +1,6 @@
 # Hercules
-## A Test Driven Framework using Hydra Abstract Syntax, Hercules Declaritive Constraints, and Hydra Plugin Support
+## A Test Driven Framework Hydra Plugin using an Abstract Syntax. 
+#### Hercules uses Declaritive Invariant Boolean Constraints, Regex Constraints, and Collection Filtering Constraints
 ![420px-Hercules_killing_the_hydra_headed_monster](https://user-images.githubusercontent.com/107733608/174702298-353afad3-96be-44c2-bf1a-b9f3cca65d54.jpg)
 
 
