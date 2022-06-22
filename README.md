@@ -1,5 +1,5 @@
 # Hercules
-## Test Driven Function Framework using Hydra Abstract Syntax and Hercules support for Hydra Syntax Plugins
+## A Test Driven Framework using Hydra Abstract Syntax, Hercules Declaritive Constraints, and Hydra Plugin Support
 ![420px-Hercules_killing_the_hydra_headed_monster](https://user-images.githubusercontent.com/107733608/174702298-353afad3-96be-44c2-bf1a-b9f3cca65d54.jpg)
 
 
